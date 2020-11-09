@@ -1,0 +1,22 @@
+.featurette {
+    &__heading {
+        font-size: 50px;
+        margin-top: 7rem;
+
+        p {
+            margin-bottom: 1.25rem;
+            font-size: 1.25rem;
+            line-height: 1.4;
+        }
+    }
+
+    &__img {
+        width: 400px;
+        height: 400px;
+        object-fit: cover;
+    }
+
+    &__divider {
+        margin: 3rem 0;
+    }
+}

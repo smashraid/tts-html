@@ -1,0 +1,12 @@
+.heading {   
+    text-align: center;
+
+    &__description {
+        text-align: justify;
+    }    
+
+    &__img {
+        color: $dark-orange;
+        width: 96px;
+    }
+}

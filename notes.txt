@@ -1,0 +1,67 @@
+https://www.iconfinder.com/iconsets/avatar-user
+https://www.iconfinder.com/iconsets/business-381
+https://www.flaticon.es/packs/employees-4
+https://www.iconfinder.com/iconsets/psychology-highlight
+https://www.iconfinder.com/iconsets/psychology
+
+<p>
+Icon made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a>
+ from <a href="http://www.flaticon.com/" target="_blank" rel="noopener noreferrer">www.flaticon.com</a>
+</p>
+
+<div class="col-md-3">
+                        <div class="card shadow-sm p-3 bg-white rounded">
+                            <img src="src/img/user.svg" class="card__avatar card-img-top mx-auto" alt="avatar" />
+                            <div class="card-body">
+                                <h5 class="card-title">John Doe</h5>
+                                <p class="card-text">
+                                    Sed tamen est aliquid, quod nobis non liceat, liceat illis.
+                                    Et quod est munus, quod opus sapientiae? Si quicquam extra virtutem habeatur in
+                                    bonis.
+                                </p>
+                                <a href=# class="btn btn-info">Mas Informacion</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card shadow-sm p-3 bg-white rounded">
+                            <img src="src/img/user.svg" class="card__avatar card-img-top mx-auto" alt="avatar" />
+                            <div class="card-body">
+                                <h5 class="card-title">John Doe</h5>
+                                <p class="card-text">
+                                    Sed tamen est aliquid, quod nobis non liceat, liceat illis.
+                                    Et quod est munus, quod opus sapientiae? Si quicquam extra virtutem habeatur in
+                                    bonis.
+                                </p>
+                                <a href=# class="btn btn-info">Mas Informacion</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card shadow-sm p-3 bg-white rounded">
+                            <img src="src/img/user.svg" class="card__avatar card-img-top mx-auto" alt="avatar" />
+                            <div class="card-body">
+                                <h5 class="card-title">John Doe</h5>
+                                <p class="card-text">
+                                    Sed tamen est aliquid, quod nobis non liceat, liceat illis.
+                                    Et quod est munus, quod opus sapientiae? Si quicquam extra virtutem habeatur in
+                                    bonis.
+                                </p>
+                                <a href=# class="btn btn-info">Mas Informacion</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="card shadow-sm p-3 bg-white rounded">
+                            <img src="src/img/user.svg" class="card__avatar card-img-top mx-auto" alt="avatar" />
+                            <div class="card-body">
+                                <h5 class="card-title">John Doe</h5>
+                                <p class="card-text">
+                                    Sed tamen est aliquid, quod nobis non liceat, liceat illis.
+                                    Et quod est munus, quod opus sapientiae? Si quicquam extra virtutem habeatur in
+                                    bonis.
+                                </p>
+                                <a href=# class="btn btn-info">Mas Informacion</a>
+                            </div>
+                        </div>
+                    </div>

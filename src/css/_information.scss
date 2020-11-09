@@ -1,0 +1,18 @@
+.information {
+    background-color: $dark-yellow;
+    color: $dark-blue;
+
+    &__content {
+        max-width: 900px;
+    }
+
+    &__item {
+        display: flex;
+        margin-bottom: 15px;
+    }
+
+    &__img {
+        margin-right: 15px;
+        width: 24px;
+    }
+}

@@ -1,0 +1,10 @@
+.pricing {
+    color: $white;
+    background-color: $dark-blue;
+    margin-top: 100px;
+    width: 250px;
+
+    &__header {
+        background-color: $dark-blue-100;
+    }
+}
